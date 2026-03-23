@@ -41,7 +41,7 @@ em oferecer um seu trabalho na página, um sistema web focado em escabilidade e 
 
 🔴 **Visualização em Tempo Real:**
 
-- 🌍 [Acessar via GitHub Pages]( )
+- 🌍 [Acessar via GitHub Pages]( https://andersondesouzajrfullstack-tech.github.io/landing-page-gerenciamento-de-produtos-manager/)
 
 > Permite que recrutadores explorem e testem o projeto diretamente no navegador.
 
