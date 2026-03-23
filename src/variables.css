@@ -1,0 +1,67 @@
+:root{
+/* CONFIGURACOES DE COSTUMIZACAO E PERSONALIZACAO DA PAGINA: */
+    
+/* 🟡CORES PRIMÁRIAS: */
+
+ --laranja-suave: hsl(12, 88%, 59%) ; 
+ --azul: hsl(228, 39%, 23%) ;
+
+
+ /* ⚫CORES NEUTRAS: */
+
+  --cinza-escuro:  hsl(233, 12%, 13%) ;
+  --cinza-claro: hsl(0, 0%, 98%) ;
+  --cinza-claro-medio: hsl(0, 0%, 58%) ; 
+  --laranja:hsl(13, 100%, 96%) ;
+
+
+/* 🖊 TIPOGRAFIA:  */
+
+  --font-body: 1rem ;  
+  --font-family:'Be Vietnam Pro' ;          
+
+/*🎨 ESTADOS DE HOUVER E ACTIVE: */
+
+    /* LINKS DE NAVEGACAO:  */
+
+    --houver-links:hsl(0, 0%, 58%) ;  
+    --active-links: hsl(233, 12%, 13%) ; 
+
+   /* BOTOES GET STARTED:  */
+
+    --houver-btn: hsla(12, 93%, 55%,0.7) ; 
+    --active-btn:hsl(12, 88%, 59%)  ; 
+
+    /* LINKS DE NAVEGACAO-RODAPE:  */
+
+    --houver-contacts: hsl(12, 88%, 59%)   ;
+    --active-contacts: hsl(0, 0%, 98%);
+
+    /* BOTOES BRANCOS:  */
+
+    --houver-white-btn: hsla(12, 95%, 63%, 0.7)  ; 
+    --active-white-btn: hsl(12, 88%, 59%)  ; 
+
+    /* ICONES DE REDES SOCIAS:  */
+
+    --houver-social:hsl(12, 88%, 59%)  ;  
+    --acitive-social: hsl(0, 0%, 98%) ; 
+
+  /* BOTAO DE PESQUISAR:  */
+
+    --go-hover: hsla(12, 100%, 67%, 0.9) ;  
+    --go-active:hsl(12, 88%, 59%)  ;   
+
+
+/* 📝 FONTE PESOS: */
+
+    --fw-normal:400 ;
+    --fw-medio:500; 
+    --fw-bold:700 ;     
+
+/* 📱 BREAKPOINTS PARA DISPOSITIVOS MÓVEIS E COMPUTADORES*/ 
+
+--Mobile: 375px ;
+--Desktop: 1440px ;
+
+}
