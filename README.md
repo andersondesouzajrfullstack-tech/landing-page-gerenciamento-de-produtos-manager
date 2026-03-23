@@ -9,6 +9,7 @@
 
 ## 🎯 Objetivo
 
+O objetivo principal da landing page da manager focado em oferecer servições e distribuição de produtos digitais, focando na apresentação do produto e do serviço que está sendo colocado na página.
 
 
 
